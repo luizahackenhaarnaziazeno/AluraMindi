@@ -43,6 +43,9 @@ O projeto foca no uso de JavaScript puro para automação de tarefas repetitivas
     main.js: Onde reside toda a inteligência do projeto, desde o loop de teclas até a função de tocar áudio.
 
 ### 🎨 Preview
+https://github.com/user-attachments/assets/ed655c33-fbcb-47bb-9d22-7c7afee9167b
+
+
 
 
 ## Linguagem Utilizada:
